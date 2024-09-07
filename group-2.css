@@ -1,0 +1,18 @@
+.group-child,
+.group-item {
+  position: absolute;
+  top: 241px;
+  left: 0;
+  width: 1277px;
+  height: 5.1px;
+  object-fit: contain;
+}
+.group-item {
+  top: 0;
+  left: 2px;
+}
+.line-parent {
+  width: 100%;
+  position: relative;
+  height: 246.1px;
+}

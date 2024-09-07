@@ -1,0 +1,228 @@
+.sign-up-child {
+  position: absolute;
+  top: 856px;
+  left: 1101px;
+  background-color: var(--color-gainsboro-100);
+  width: 58px;
+  height: 22px;
+  cursor: pointer;
+}
+.sign-up-item {
+  position: absolute;
+  top: calc(50% - 232px);
+  left: 27px;
+  border-radius: 50%;
+  width: 672px;
+  height: 678px;
+  object-fit: cover;
+}
+.sign-up-inner {
+  position: absolute;
+  top: 0;
+  left: 722px;
+  border-radius: var(--br-41xl) 0 0 var(--br-41xl);
+  background-color: var(--color-white);
+  width: 718px;
+  height: 1024px;
+}
+.venture-link2 {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-inria-sans);
+  color: var(--color-white);
+  width: 270px;
+  height: 72px;
+}
+.sign-up-child1 {
+  position: absolute;
+  top: 676px;
+  left: 170px;
+  border-radius: 0 var(--br-40xl) 0 0;
+  background-color: #f5f5f7;
+  width: 68px;
+  height: 30px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 468.5px;
+  left: 479px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 33.1px;
+  height: 46.3px;
+  transform: rotate(-26deg);
+  transform-origin: 0 0;
+}
+.sign-up-child2 {
+  position: absolute;
+  top: 469px;
+  left: 489px;
+  width: 30.7px;
+  height: 26.7px;
+  object-fit: contain;
+}
+.empowering-entrepreneurs {
+  margin: 0;
+}
+.empowering-entrepreneurs-one-container {
+  position: absolute;
+  top: 193px;
+  left: 85px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-weight: 600;
+  color: var(--color-white);
+  width: 594px;
+  height: 112px;
+}
+.create-account {
+  position: absolute;
+  top: 134px;
+  left: 892px;
+  font-size: 38px;
+  display: inline-block;
+  color: #354195;
+  width: 377px;
+  height: 46px;
+}
+.email-or-phone,
+.name,
+.password,
+.username {
+  position: absolute;
+  top: 256px;
+  left: 846px;
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+}
+.email-or-phone,
+.password,
+.username {
+  top: 371px;
+  left: 748px;
+  width: 418px;
+  height: 70px;
+}
+.password,
+.username {
+  top: 482px;
+  left: 726px;
+  width: 377px;
+}
+.password {
+  top: 604px;
+}
+.sign-up-child3 {
+  position: absolute;
+  top: 789px;
+  left: 849px;
+  border-radius: var(--br-base);
+  background: linear-gradient(90deg, #795ca8, #314094);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 402px;
+  height: 44px;
+}
+.i-agree-to {
+  position: absolute;
+  top: 728px;
+  left: 807px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 435px;
+  height: 51px;
+}
+.span {
+  color: var(--color-black);
+}
+.log-in {
+  font-weight: 800;
+  color: var(--color-darkslateblue-100);
+}
+.already-have-an-container {
+  position: absolute;
+  top: 853px;
+  left: 807px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 435px;
+  height: 51px;
+}
+.sign-up-child4 {
+  position: absolute;
+  top: 727px;
+  left: 848px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 26px;
+  height: 21px;
+}
+.sign-up2 {
+  position: absolute;
+  top: 798px;
+  left: 897px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 301px;
+  height: 33px;
+  cursor: pointer;
+}
+.sign-up-child5 {
+  position: absolute;
+  top: 0;
+  left: 1372px;
+  width: 68px;
+  height: 1024px;
+  object-fit: cover;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-pink-100);
+}
+.sign-up-inner1,
+.sign-up-inner2,
+.sign-up-inner3,
+.sign-up-inner4 {
+  position: absolute;
+  top: 305px;
+  left: 846px;
+  width: 402px;
+  height: 37px;
+}
+.sign-up-inner2,
+.sign-up-inner3,
+.sign-up-inner4 {
+  top: 534px;
+}
+.sign-up-inner3,
+.sign-up-inner4 {
+  top: 654px;
+  left: 849px;
+}
+.sign-up-inner4 {
+  top: 418px;
+  left: 847px;
+}
+.sign-up1 {
+  width: 100%;
+  position: relative;
+  background-color: #f9bebd;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

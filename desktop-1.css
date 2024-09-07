@@ -1,0 +1,225 @@
+.desktop-1-child {
+  position: absolute;
+  top: 26px;
+  left: 2px;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 180px;
+}
+.group-inner,
+.mentorship3 {
+  position: absolute;
+  top: 62px;
+  left: 471px;
+}
+.group-inner {
+  top: 0;
+  left: 4px;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-white);
+  box-shadow: 14px 14px 4px #d8cdc9;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1339px;
+  height: 260px;
+}
+.div7 {
+  position: absolute;
+  top: 96px;
+  left: 1000px;
+  display: inline-block;
+  width: 344px;
+  height: 96px;
+}
+.venture-launchpad-program {
+  position: absolute;
+  top: 30px;
+  left: 435px;
+  text-align: left;
+}
+.group-child1,
+.group-child2 {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1339px;
+  height: 260px;
+}
+.group-child1 {
+  top: 656px;
+  box-shadow: 14px 14px 4px #d8cdc9;
+}
+.group-child2 {
+  top: 328px;
+  box-shadow: 14px 14px 4px rgba(0, 0, 0, 0.1);
+}
+.div10,
+.div9 {
+  position: absolute;
+  top: 416px;
+  left: 995px;
+  display: inline-block;
+  width: 344px;
+  height: 96px;
+}
+.div10 {
+  top: 751px;
+  left: 1000px;
+}
+.group-child3,
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 23px;
+  left: 43px;
+  width: 380px;
+  height: 213px;
+  object-fit: cover;
+}
+.group-child4,
+.group-child5 {
+  top: 351px;
+}
+.group-child5 {
+  top: 680px;
+}
+.group-child6,
+.group-child7,
+.group-child8 {
+  position: absolute;
+  border-radius: var(--br-mid);
+  width: 175px;
+  height: 41px;
+}
+.group-child6 {
+  top: 151px;
+  left: 1084px;
+  background-color: var(--color-royalblue-200);
+}
+.group-child7,
+.group-child8 {
+  top: 478px;
+  left: 1078px;
+}
+.group-child8 {
+  top: 802px;
+  background-color: var(--color-royalblue-200);
+}
+.explore,
+.explore1 {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+}
+.explore {
+  top: 484px;
+  left: 1093px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 146px;
+  height: 23px;
+}
+.explore1 {
+  top: 157px;
+  left: 1123px;
+  color: var(--color-whitesmoke-100);
+}
+.explore-wrapper,
+.explore2 {
+  position: absolute;
+  width: 146px;
+  height: 23px;
+}
+.explore2 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.explore-wrapper {
+  top: 806px;
+  left: 1093px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.investor-edge-series {
+  position: absolute;
+  top: 357px;
+  left: 452px;
+  display: inline-block;
+  text-align: left;
+  width: 523px;
+  height: 75px;
+}
+.master-pitch-decks {
+  margin: 0;
+}
+.essentials {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.led-by-industry-container,
+.master-pitch-decks-container {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.master-pitch-decks-container {
+  top: 432px;
+  left: 438px;
+  display: inline-block;
+  width: 485px;
+  height: 133px;
+}
+.led-by-industry-container {
+  top: 96px;
+  left: 446px;
+}
+.unlock-potential-with-container,
+.venture-link-accelerator {
+  position: absolute;
+  top: 691px;
+  left: 452px;
+  display: inline-block;
+  text-align: left;
+  width: 554px;
+  height: 54px;
+}
+.unlock-potential-with-container {
+  top: 759px;
+  left: 457px;
+  font-size: var(--font-size-xl);
+  width: 518px;
+  height: 116px;
+}
+.group-child9 {
+  position: absolute;
+  top: 112px;
+  left: 694px;
+  background-color: var(--color-gainsboro-100);
+  width: 21px;
+  height: 3px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 295px;
+  left: 48px;
+  width: 1344px;
+  height: 916px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-linen);
+  height: 1240px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 85px;
+  color: var(--color-royalblue-200);
+  font-family: var(--font-crete-round);
+}
